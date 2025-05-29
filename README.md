@@ -24,7 +24,7 @@
 
 ```
 git clone https://github.com/ValentynSaska/SP_500_Library_TEST.git
-cd S&P_500
+cd SP_500_Library_TEST
 ```
 ### 2. Встановлення залежностей
 
