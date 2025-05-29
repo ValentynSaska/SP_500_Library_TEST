@@ -23,7 +23,7 @@
 ### 1. Клонування репозиторію
 
 ```
-git clone 
+git clone https://github.com/ValentynSaska/SP_500_Library_TEST.git
 cd S&P_500
 ```
 ### 2. Встановлення залежностей
